@@ -617,6 +617,11 @@ body{background:var(--ink);color:var(--fg)}
 .gp-badge:hover{transform:translateY(-2px)}
 .gp-badge.form{width:40px;margin:0 0 0 auto;flex:none}
 .gp-badge.form img{border-radius:4px}
+.p-badges{display:flex;flex-wrap:wrap;align-items:flex-start;gap:12px;margin-top:16px}
+.p-badges .gp-badge{margin-top:0}
+.p-badge{display:inline-flex;flex:none;width:76px;transition:transform .25s ease}
+.p-badge img{display:block;width:100%;height:auto}
+.p-badge:hover{transform:translateY(-2px)}
 
 /* client logo wall */
 .client-block{margin-top:clamp(30px,4vw,48px)}

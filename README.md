@@ -84,6 +84,25 @@ Domain final `hadona.id` sudah dipakai konsisten di semua file (canonical, og:ur
 
 ---
 
+## Badge partner (Google / Meta / TikTok)
+
+Footer memakai baris badge resmi di `.p-badges`:
+
+- **Google Partner** — sudah aktif. Badge hosted Google (`gstatic.com`), link ke
+  profil agensi `https://www.google.com/partners/agency?id=9594200848` (terdaftar untuk `hadona.id`).
+- **Meta Business Partner** — slot sudah disiapkan (blok komentar di footer semua halaman).
+  Aktifkan dengan: (1) unduh aset badge resmi dari Meta Business Partner Center,
+  (2) simpan sebagai `assets/brand/meta-partner-badge.svg`,
+  (3) hapus tanda komentar blok `<a class="p-badge">` untuk Meta, sesuaikan `href` ke profil
+  direktori partner publik Hadona.
+- **TikTok Marketing Partner** — sama seperti Meta: unduh aset dari portal TikTok Marketing
+  Partners, simpan sebagai `assets/brand/tiktok-partner-badge.svg`, uncomment bloknya.
+
+Catatan: badge resmi Meta/TikTok hanya boleh dipasang jika Hadona benar-benar diterima di
+program partner masing-masing (aturan merek mereka). Aset badge wajib dipakai tanpa modifikasi.
+
+---
+
 ## Edit yang sering dilakukan
 
 **Ganti teks** — semua isi ada di dalam `<main>`. Navigasi dan footer diulang di setiap file, jadi perubahan menu harus dilakukan di 10 file (atau pakai Find & Replace seluruh folder). Setelah mengubah nav/footer, jalankan `python3 scripts/check_chrome.py` untuk memastikan tidak ada halaman yang tertinggal.
