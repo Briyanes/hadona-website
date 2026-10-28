@@ -28,8 +28,9 @@ Setiap file punya komentar `PAGE 0x/10` di baris kedua, jadi saat file dibuka di
 ## Buka di VS Code
 
 1. **File → Open Folder** → pilih folder `hadona-website`.
-2. Buka `index.html`, klik kanan → **Open with Live Server** (extension *Live Server* oleh Ritwick Dey).
-   Membuka lewat `file://` juga bisa, tapi font dan beberapa perilaku form lebih akurat lewat server lokal.
+2. Jalankan server lokal: `python3 scripts/dev.py` → buka `http://localhost:8000`.
+   Server ini mendukung clean URLs seperti production (`/work`, `/contact`) —
+   `python3 -m http.server` atau `file://` TIDAK bisa lagi karena link internal sudah tanpa `.html`.
 3. Untuk melihat versi gelap: klik ikon bulan di kanan atas, atau tambahkan `?theme=dark` di URL.
 4. Versi Indonesia: klik tombol `ID` di kanan atas (menerjemahkan antarmuka, isi studi kasus tetap Inggris).
 
@@ -50,6 +51,7 @@ hadona-website/
 ├── 404.html
 ├── robots.txt
 ├── sitemap.xml
+├── vercel.json          cleanUrls + security headers
 ├── README.md
 ├── work/
 │   ├── aum-apparel.html
