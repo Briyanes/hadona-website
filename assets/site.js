@@ -256,6 +256,7 @@
   /* form */
   var form=d.getElementById('leadForm');
   function err(id,on){d.getElementById(id).classList.toggle('show',on);}
+  if(form){
   form.addEventListener('submit',function(e){
     e.preventDefault();
     var ok=true;
@@ -290,6 +291,7 @@
       d.getElementById(map[n]).classList.remove('show');
     });
   });
+  }
 })();
 
   /* client logos: hydrate from synced content */
