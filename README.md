@@ -86,20 +86,25 @@ Domain final `hadona.id` sudah dipakai konsisten di semua file (canonical, og:ur
 
 ## Badge partner (Google / Meta / TikTok)
 
-Footer memakai baris badge resmi di `.p-badges`:
+Footer memakai baris badge di `.p-badges`:
 
-- **Google Partner** — sudah aktif. Badge hosted Google (`gstatic.com`), link ke
-  profil agensi `https://www.google.com/partners/agency?id=9594200848` (terdaftar untuk `hadona.id`).
-- **Meta Business Partner** — slot sudah disiapkan (blok komentar di footer semua halaman).
-  Aktifkan dengan: (1) unduh aset badge resmi dari Meta Business Partner Center,
-  (2) simpan sebagai `assets/brand/meta-partner-badge.svg`,
-  (3) hapus tanda komentar blok `<a class="p-badge">` untuk Meta, sesuaikan `href` ke profil
-  direktori partner publik Hadona.
-- **TikTok Marketing Partner** — sama seperti Meta: unduh aset dari portal TikTok Marketing
-  Partners, simpan sebagai `assets/brand/tiktok-partner-badge.svg`, uncomment bloknya.
+- **Google Partner** — badge RESMI, hosted Google (`gstatic.com`), klik ke profil agensi
+  `https://www.google.com/partners/agency?id=9594200848` (terdaftar untuk `hadona.id`).
+- **Meta Business** & **TikTok Marketing** — badge DESAIN SENDIRI yang jujur (bukan badge resmi
+  partner): aset di `assets/brand/meta-badge.svg` & `assets/brand/tiktok-badge.svg`, non-klik,
+  wording sama dengan chip platform sebelumnya — hanya menunjukkan platform yang dikelola.
 
-Catatan: badge resmi Meta/TikTok hanya boleh dipasang jika Hadona benar-benar diterima di
-program partner masing-masing (aturan merek mereka). Aset badge wajib dipakai tanpa modifikasi.
+**Upgrade ke badge resmi** (setelah lulus program partner Meta/TikTok):
+
+1. Unduh aset resmi dari Business Partner Center (Meta) / TikTok Marketing Partners portal.
+2. Simpan sebagai `assets/brand/meta-partner-badge.svg` / `assets/brand/tiktok-partner-badge.svg`.
+3. Di footer 12 halaman, ganti `<span class="p-badge"><img ...>` menjadi
+   `<a class="p-badge" href="URL-PROFIL-DIREKTORI" target="_blank" rel="noopener noreferrer">`
+   dengan `src` menunjuk file resmi.
+4. Jalankan `python3 scripts/check_chrome.py`, lalu commit & push.
+
+Catatan: badge resmi hanya boleh dipasang jika Hadona benar-benar diterima di program partner
+masing-masing (aturan merek mereka). Aset resmi wajib dipakai tanpa modifikasi.
 
 ---
 
