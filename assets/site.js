@@ -332,10 +332,15 @@
           var metric=mk?clean(m[mk])+' · '+clean(mk):'';
           var thumb=clean(c.thumbnail_url);
           var fig=thumb?'<figure><img src="'+thumb+'" alt="'+clean(c.client_name)+' case study" width="800" height="450" loading="lazy" decoding="async"></figure>':'';
-          return '<article class="wcard cs-static">'+fig+
+          var raw=String(c.client_name||'');
+          var href='/work/'+clean(c.slug).replace(/[^a-z0-9-]/gi,'');
+          if(/aum/i.test(raw)) href='/work/aum-apparel';
+          else if(/chau|cau/i.test(raw)) href='/work/chau-chocolate';
+          else if(/lyth/i.test(raw)) href='/work/lyth';
+          return '<a class="wcard" href="'+href+'">'+fig+
             '<div class="b"><span class="cs-client">'+clean(c.client_name)+(c.services?' · '+clean(c.services):'')+'</span>'+
             '<h3 class="cs-title">'+clean(c.title)+'</h3>'+
-            (metric?'<span class="cs-metric">'+metric+'</span>':'')+'</div></article>';
+            (metric?'<span class="cs-metric">'+metric+'</span>':'')+'</div></a>';
         }).join('');
         grid.innerHTML=html;
         var cnt=d.getElementById('csCount');

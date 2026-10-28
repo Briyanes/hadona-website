@@ -152,7 +152,9 @@ Workspace [Publish] → Supabase (is_published=true)
 ```
 
 Yang dirender otomatis: **logo wall** (homepage), **grid "Published case studies"** (`/work`),
-**kutipan klien** (section Lab di homepage).
+**kutipan klien** (section Lab di homepage), plus **halaman case study statis** per studi
+(`scripts/generate-cases.mjs` — chrome dari template `work/aum-apparel.html`, klien kurasi
+AUM/Cau/LYTH di-skip agar tidak duplikat, `sitemap.xml` di-regenerate otomatis).
 
 ### Setup sekali di Vercel
 
