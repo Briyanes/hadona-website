@@ -701,3 +701,9 @@ html[lang="id"] .hero .lede{font-size:16px}
   .legal h2{page-break-after:avoid}
   a{color:#000!important;text-decoration:underline}
 }
+
+/* ---------- synced workspace content ---------- */
+.wcard.cs-static{cursor:default}
+.cs-client{font-family:var(--mono);font-size:8.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--faint)}
+.cs-title{font-size:16.5px;letter-spacing:-.01em;line-height:1.25;margin-top:6px;font-weight:700}
+.cs-metric{display:inline-block;margin-top:8px;font-family:var(--mono);font-size:9px;letter-spacing:.06em;color:var(--yellow)}

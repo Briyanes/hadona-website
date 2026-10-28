@@ -137,3 +137,29 @@ masing-masing (aturan merek mereka). Aset resmi wajib dipakai tanpa modifikasi.
 - Angka di studi kasus berasal dari dashboard klien. Konfirmasi tertulis sebelum publikasi.
 - Minimum spend, termin, dan onboarding di `engagement.html` adalah default yang wajar — sesuaikan dengan kebijakan Anda.
 - Tombol bahasa memakai kamus teks di `assets/site.js`. Untuk SEO dua bahasa yang benar, perlu rute `/id` terpisah.
+
+---
+
+## Auto-publish dari workspace (workspace.hadona.id)
+
+Klien/tim publish konten di dashboard workspace → situs ter-update otomatis:
+
+```
+Workspace [Publish] → Supabase (is_published=true)
+        → POST ke Vercel Deploy Hook
+        → Vercel build: node scripts/sync-content.mjs (tarik published)
+        → content/*.json baru → hadona.id live (±1 menit)
+```
+
+Yang dirender otomatis: **logo wall** (homepage), **grid "Published case studies"** (`/work`),
+**kutipan klien** (section Lab di homepage).
+
+### Setup sekali di Vercel
+
+1. Settings → Environment Variables → tambahkan `SUPABASE_URL` dan
+   `SUPABASE_SERVICE_ROLE_KEY` (dari dashboard Supabasi/workspace).
+2. Settings → Git → Deploy Hooks → buat hook (mis. `workspace-publish`) → salin URL.
+3. Di workspace: tombol Publish memanggil `POST <hook-url>` setelah save.
+
+Catatan: tanpa env var, build tetap sukses (memakai `content/*.json` ter-commit — fallback aman).
+Jangan pernah menaruh SERVICE_ROLE_KEY di sisi klien/git.

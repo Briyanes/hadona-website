@@ -32,8 +32,8 @@ const url = env.SUPABASE_URL || env.NEXT_PUBLIC_SUPABASE_URL;
 const key = env.SUPABASE_SERVICE_ROLE_KEY || env.SUPABASE_KEY;
 
 if (!url || !key) {
-  console.error("Missing SUPABASE_URL / SUPABASE_SERVICE_ROLE_KEY (use --env path)");
-  process.exit(1);
+  console.warn("Missing SUPABASE_URL / SUPABASE_SERVICE_ROLE_KEY - skipping sync, keeping committed content/*.json");
+  process.exit(0);
 }
 
 const headers = { apikey: key, Authorization: `Bearer ${key}` };

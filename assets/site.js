@@ -295,10 +295,10 @@
   /* client logos: hydrate from synced content */
   (function(){
     var d=document;
-    var USE_SYNCED=false; // set true after dashboard logo assets are normalized
+    var USE_SYNCED=true;  // logo wall hydrates from content/clients.json (workspace sync)
     var wall=d.querySelector('.logo-wall');
     if(!USE_SYNCED || !wall || !window.fetch) return;
-    fetch('content/clients.json', {cache:'no-store'})
+    fetch('/content/clients.json', {cache:'no-store'})
       .then(function(r){ return r.ok ? r.json() : null; })
       .then(function(data){
         if(!data || !data.items || !data.items.length) return;
@@ -312,6 +312,53 @@
         }).join('');
         var note=d.querySelector('.client-head .small');
         if(note) note.textContent='Synced from dashboard · '+items.length+' active clients · logos used with permission.';
+      })
+      .catch(function(){});
+  })();
+
+
+  /* published case studies grid - synced from workspace */
+  (function(){
+    var d=document;
+    var grid=d.getElementById('csGrid');
+    if(!grid || !window.fetch) return;
+    fetch('/content/case-studies.json',{cache:'no-store'})
+      .then(function(r){ return r.ok ? r.json() : null; })
+      .then(function(data){
+        if(!data || !data.items || !data.items.length){ var s=d.getElementById('published'); if(s) s.style.display='none'; return; }
+        var clean=function(v){ return String(v==null?'':v).replace(/[<>&"]/g,''); };
+        var html=data.items.map(function(c){
+          var m=c.metrics||{}; var mk=Object.keys(m)[0];
+          var metric=mk?clean(m[mk])+' · '+clean(mk):'';
+          var thumb=clean(c.thumbnail_url);
+          var fig=thumb?'<figure><img src="'+thumb+'" alt="'+clean(c.client_name)+' case study" width="800" height="450" loading="lazy" decoding="async"></figure>':'';
+          return '<article class="wcard cs-static">'+fig+
+            '<div class="b"><span class="cs-client">'+clean(c.client_name)+(c.services?' · '+clean(c.services):'')+'</span>'+
+            '<h3 class="cs-title">'+clean(c.title)+'</h3>'+
+            (metric?'<span class="cs-metric">'+metric+'</span>':'')+'</div></article>';
+        }).join('');
+        grid.innerHTML=html;
+        var cnt=d.getElementById('csCount');
+        if(cnt) cnt.textContent=data.count+' published · synced from workspace';
+      })
+      .catch(function(){ var s=d.getElementById('published'); if(s) s.style.display='none'; });
+  })();
+
+  /* lab quote - synced from workspace */
+  (function(){
+    var d=document, q=d.querySelector('.lab-quote');
+    if(!q || !window.fetch) return;
+    fetch('/content/testimonials.json',{cache:'no-store'})
+      .then(function(r){ return r.ok ? r.json() : null; })
+      .then(function(data){
+        if(!data || !data.items || !data.items.length) return;
+        var t=data.items.filter(function(x){ return x && x.is_featured; })[0] || data.items[0];
+        var clean=function(v){ return String(v==null?'':v).replace(/[<>&"]/g,''); };
+        var txt=clean(t.testimonial);
+        if(txt.length>280) txt=txt.slice(0,277).replace(/\s+\S*$/,'')+'…';
+        var p=q.querySelector('p'), f=q.querySelector('footer');
+        if(p && txt) p.textContent='“'+txt+'”';
+        if(f) f.textContent=clean(t.client_name)+(t.position?' · '+clean(t.position):'');
       })
       .catch(function(){});
   })();
