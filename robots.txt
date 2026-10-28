@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hadona.agency/sitemap.xml

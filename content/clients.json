@@ -1,0 +1,254 @@
+{
+ "syncedAt": "2026-10-26T18:52:11.704Z",
+ "count": 28,
+ "items": [
+  {
+   "name": "Banyu Biru",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770103406302-uhvl7q.png",
+   "website_url": "https://banyubiruproperty.com/",
+   "display_order": 0,
+   "tone": "light",
+   "_mean": 233,
+   "display_name": "Banyu Biru"
+  },
+  {
+   "name": "Bossfa Backpack",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770103260001-d5cogt.png",
+   "website_url": null,
+   "display_order": 0,
+   "tone": "light",
+   "_mean": 245,
+   "display_name": "Bossfa Backpack"
+  },
+  {
+   "name": "Cau Chocolates",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770102428669-r20yw.png",
+   "website_url": "https://cauchocolatesbali.com/",
+   "display_order": 0,
+   "tone": "dark",
+   "_mean": 93,
+   "display_name": "Cau Chocolates"
+  },
+  {
+   "name": "EOP Korean Look",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770108573254-p7vtf9.png",
+   "website_url": null,
+   "display_order": 0,
+   "tone": "light",
+   "_mean": 243,
+   "display_name": "EOP Korean Look"
+  },
+  {
+   "name": "Liora Flower",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770103544990-ejqhdr.png",
+   "website_url": null,
+   "display_order": 0,
+   "tone": "dark",
+   "_mean": 102,
+   "display_name": "Liora Flower"
+  },
+  {
+   "name": "Lire Common Art Space",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770103362551-5uce0s.png",
+   "website_url": "https://lirecommonartspace.com/",
+   "display_order": 0,
+   "tone": "dark",
+   "_mean": 24,
+   "display_name": "Lire Common Art Space"
+  },
+  {
+   "name": "LYTH Outdoor Garments ",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770103018353-gx77ji.png",
+   "website_url": "https://lyth-og.com/",
+   "display_order": 0,
+   "tone": "dark",
+   "_mean": 78,
+   "display_name": "LYTH Outdoor Garments"
+  },
+  {
+   "name": "Marichan Fashion",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770103298486-pdwjq5.png",
+   "website_url": null,
+   "display_order": 0,
+   "tone": "light",
+   "_mean": 222,
+   "display_name": "Marichan Fashion"
+  },
+  {
+   "name": "Mertha Jaya Medika",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1767420636868-eyhujb.jpg",
+   "website_url": "https://merthajaya.id/",
+   "display_order": 0,
+   "tone": "light",
+   "_mean": 237,
+   "display_name": "Mertha Jaya Medika"
+  },
+  {
+   "name": "Ninnas Recipe",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770109646025-12g33i.png",
+   "website_url": null,
+   "display_order": 0,
+   "tone": "light",
+   "_mean": 249,
+   "display_name": "Ninna's Recipe"
+  },
+  {
+   "name": "OTC Bali Solo",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1767417503911-pijji.png",
+   "website_url": "https://otcbalisolo.com/",
+   "display_order": 0,
+   "tone": "dark",
+   "_mean": 118,
+   "display_name": "OTC Bali Solo"
+  },
+  {
+   "name": "RMODA autospa",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770281708909-uhu826.png",
+   "website_url": null,
+   "display_order": 0,
+   "tone": "dark",
+   "_mean": 23,
+   "display_name": "RMODA Autospa"
+  },
+  {
+   "name": "Seminar Kit Kulit",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770107031158-sf74ye.png",
+   "website_url": null,
+   "display_order": 0,
+   "tone": "light",
+   "_mean": 210,
+   "display_name": "Tape Ketan 181"
+  },
+  {
+   "name": "Tape Ketan Muntilan",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1767859171194-b0h4tb.jpg",
+   "website_url": null,
+   "display_order": 0,
+   "tone": "light",
+   "_mean": 230,
+   "display_name": "Tree Top Up"
+  },
+  {
+   "name": "Travel Haji Umroh",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770103334778-ln3k74.png",
+   "website_url": null,
+   "display_order": 0,
+   "tone": "dark",
+   "_mean": 74,
+   "display_name": "Diginara"
+  },
+  {
+   "name": "Tree Top Up Game",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770102995548-9uj77x.png",
+   "website_url": "https://treetopgame.com/",
+   "display_order": 0,
+   "tone": "dark",
+   "_mean": 43,
+   "display_name": "Logos Village"
+  },
+  {
+   "name": "Diginara",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1767420992389-4gk9c7.jpg",
+   "website_url": null,
+   "display_order": 1,
+   "tone": "light",
+   "_mean": 239,
+   "display_name": "AUM Apparel"
+  },
+  {
+   "name": "Logos Village",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1767417619765-zuisx9.png",
+   "website_url": null,
+   "display_order": 2,
+   "tone": "light",
+   "_mean": 245,
+   "display_name": "Eazytax Consulting"
+  },
+  {
+   "name": "AUM Apparel",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1767417876385-4txxck.jpg",
+   "website_url": "https://aumapparel.id/",
+   "display_order": 3,
+   "tone": "light",
+   "_mean": 234,
+   "display_name": "Ayma Label"
+  },
+  {
+   "name": "RMODA workshop",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1767418148826-lageyc.png",
+   "website_url": null,
+   "display_order": 4,
+   "tone": "light",
+   "_mean": 202,
+   "display_name": "Toko Kurma Ayyuwa"
+  },
+  {
+   "name": "RMODA studio",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1767418209213-2nlxc4.jpg",
+   "website_url": null,
+   "display_order": 5,
+   "tone": "light",
+   "_mean": 252,
+   "display_name": "Energy Persada Group"
+  },
+  {
+   "name": "Eazytax Consuling",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1767418738825-bbb4sh.jpg",
+   "website_url": "https://www.eazytaxconsulting.id/",
+   "display_order": 6,
+   "tone": "light",
+   "_mean": 246,
+   "display_name": "Royal Jewelry"
+  },
+  {
+   "name": "Ayma Label",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1767418777120-q4j56.jpg",
+   "website_url": "https://aymalabel.id/",
+   "display_order": 7,
+   "tone": "light",
+   "_mean": 245,
+   "display_name": "Lyn Skylounge"
+  },
+  {
+   "name": "Toko Kurma Ayyuwa",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1767418842305-bab5fa.jpg",
+   "website_url": null,
+   "display_order": 8,
+   "tone": "light",
+   "_mean": 208,
+   "display_name": "Micropple"
+  },
+  {
+   "name": "Energy Persada Group",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1767761472653-o3zrg.png",
+   "website_url": "https://energypersadagroup.com/",
+   "display_order": 10,
+   "tone": "dark",
+   "_mean": 96
+  },
+  {
+   "name": "Royal Jewelry",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770107132726-fdvgki.png",
+   "website_url": null,
+   "display_order": 11,
+   "tone": "dark",
+   "_mean": 122
+  },
+  {
+   "name": "Lyn Skylounge",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1770108518257-y8urob.png",
+   "website_url": null,
+   "display_order": 12,
+   "tone": "dark",
+   "_mean": 131
+  },
+  {
+   "name": "Micropple",
+   "logo_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/logo/1767420887564-4304rj.jpg",
+   "website_url": null,
+   "display_order": 14,
+   "tone": "light",
+   "_mean": 237
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "syncedAt": "2026-10-26T18:52:11.707Z",
+ "count": 15,
+ "items": [
+  {
+   "client_name": "PT Fashion Indonesia",
+   "testimonial": "Hadona Digital Media membantu kami meningkatkan ROAS hingga 8.5x dalam 3 bulan. Strategi paid ads yang mereka implementasikan sangat efektif dan berbasis data.",
+   "position": "Marketing Director",
+   "is_featured": true,
+   "display_order": 1
+  },
+  {
+   "client_name": "Tech Startup ABC",
+   "testimonial": "SEO transformation yang luar biasa! DA kami naik dari 25 ke 65, dan organic traffic meningkat 850%. Tim Hadona sangat profesional dan hasil-oriented.",
+   "position": "CEO & Founder",
+   "is_featured": true,
+   "display_order": 3
+  },
+  {
+   "client_name": "BeautyHive Official",
+   "testimonial": "Kami tidak percaya bisa tumbuh secepat ini tanpa paid ads. Hadona mengajarkan kami cara build authentic community.",
+   "position": "Head of Marketing",
+   "is_featured": true,
+   "display_order": 3
+  },
+  {
+   "client_name": "SnackYum Indonesia",
+   "testimonial": "Hadona membantu kami understand TikTok culture dan create content yang resonate dengan Gen Z. Sales dari TikTok melebihi expectations!",
+   "position": "Brand Manager",
+   "is_featured": true,
+   "display_order": 4
+  },
+  {
+   "client_name": "EduTech Indonesia",
+   "testimonial": "Transformasi luar biasa. Kami sekarang bisa reduce paid ad spend significantly karena organic traffic sudah sangat strong.",
+   "position": "CMO",
+   "is_featured": true,
+   "display_order": 5
+  },
+  {
+   "client_name": "FreshMart Express",
+   "testimonial": "Local SEO dari Hadona sangat impactful. Kami sekarang dominate local search di semua area kami. Foot traffic naik signifikan!",
+   "position": "Head of Growth",
+   "is_featured": true,
+   "display_order": 6
+  },
+  {
+   "client_name": "GlowBeauty Asia",
+   "testimonial": "KOL campaign terbaik yang pernah kami jalankan. Hadona managed semua influencers dengan sangat profesional dan hasilnya luar biasa.",
+   "position": "Marketing Director",
+   "is_featured": true,
+   "display_order": 7
+  },
+  {
+   "client_name": "FashionForward ID",
+   "testimonial": "Brand ambassador program dari Hadona sangat strategic. Kami sekarang have consistent brand presence dengan authentic KOL partnerships.",
+   "position": "Brand Director",
+   "is_featured": true,
+   "display_order": 8
+  },
+  {
+   "client_name": "FinTech Solutions",
+   "testimonial": "Rebranding dari Hadona transformed brand kami completely. Kami sekarang terlihat jauh lebih profesional dan credible di mata enterprise clients.",
+   "position": "CEO & Co-Founder",
+   "is_featured": true,
+   "display_order": 9
+  },
+  {
+   "client_name": "E-Commerce Giant",
+   "testimonial": "Design overhaul dari Hadona memberikan impact yang immediate dan measurable. Kami sekarang have systematic approach ke ad creative.",
+   "position": "Head of Performance Marketing",
+   "is_featured": true,
+   "display_order": 10
+  },
+  {
+   "client_name": "Luxury Homes Indonesia",
+   "testimonial": "Brand positioning dari Hadona sangat transformative. Kami sekarang recognized sebagai top 5 premium developer di Indonesia.",
+   "position": "CEO",
+   "is_featured": true,
+   "display_order": 11
+  },
+  {
+   "client_name": "TechCorp Indonesia",
+   "testimonial": "Employer branding transformation sangat impactful. Kami sekarang attract top talents tanpa harus compete dengan salary packages.",
+   "position": "CHRO",
+   "is_featured": true,
+   "display_order": 12
+  },
+  {
+   "client_name": "RetailMax Indonesia",
+   "testimonial": "Website redesign dari Hadona adalah game-changer. Sales dari website naik dramatis dan customer feedback sangat positive.",
+   "position": "E-Commerce Director",
+   "is_featured": true,
+   "display_order": 13
+  },
+  {
+   "client_name": "ConsultPro Partners",
+   "testimonial": "Website dari Hadona menjadi salah satu channel penting untuk lead generation. Kami sekarang less dependent pada referrals.",
+   "position": "Managing Partner",
+   "is_featured": true,
+   "display_order": 14
+  },
+  {
+   "client_name": "MegaSale Marketplace",
+   "testimonial": "Content production capability dari Hadona luar biasa. Mereka deliver 500+ creatives on time dengan quality yang excellent.",
+   "position": "Head of Marketing",
+   "is_featured": true,
+   "display_order": 15
+  }
+ ]
+}

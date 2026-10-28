@@ -1,0 +1,330 @@
+{
+ "syncedAt": "2026-10-26T18:52:11.708Z",
+ "count": 18,
+ "items": [
+  {
+   "slug": "meningkatkan-roas-1-45x-untuk-chau-chocolate-dengan-strategi-cpas-event-based-di-shopee",
+   "title": "Meningkatkan ROAS 1.45x untuk Chau Chocolate dengan Strategi CPAS Event-Based di Shopee",
+   "client_name": "Cau Chocolates Bali",
+   "challenge": "Chau Chocolate menghadapi tantangan berikut saat menjual di Shopee:\r\n- Kompetisi tinggi selama event 8.8, 9.9, dan Payday (harga produk serupa sering didiskon hingga 70%).\r\n- Konversi rendah di luar event (AOV hanya Rp80.000 vs Rp122.010 saat event).\r\n- Biaya akuisisi tidak terukur karena kurangnya strategi CPAS (Cost Per Acquisition) yang terfokus pada event.",
+   "strategy": "Kami merancang strategi berbasis event dengan 3 pilar utama:\r\n- CPAS Event-Based Targeting:\r\n- Fokus pada periode 8.8, 9.9, dan Payday (tengah/akhir bulan) dengan alokasi anggaran 70% dari total.\r\n- Target audiens: pembeli coklat premium (usia 25-45 tahun) + pengguna yang pernah membeli produk serupa di Shopee.\r\n\r\nDynamic Creative Optimization:\r\n- Kreatif berbeda untuk setiap event:\r\n- Twin Date (8.8, 9.9): \"Coklat Hadiah Spesial untuk Pasangan\" + diskon 20%.\r\n- Payday: \"Reward Diri Sendiri dengan Coklat Premium\" + gratis ongkir.\r\n\r\nCPAS Budget Control:\r\n- Batasi biaya per akuisisi maksimal Rp90.000 (di bawah AOV Rp122.010).\r\n- Gunakan auto-bidding Shopee untuk memprioritaskan konversi selama event peak hour.\"",
+   "results": "Dalam 2 bulan (28 Agustus – 23 Oktober 2025), kampanye menghasilkan:\r\n- 2324 Add To Cart dengan total Rp199,967,037\r\n- 119 pembelian dengan total pendapatan Rp14.519.240.\r\n- ROAS 1.45x (setiap Rp1 juta iklan menghasilkan Rp1.45 juta revenue).\r\n- AOV Rp122.010 (naik 53% dibandingkan periode non-event).\r\n- Biaya per pembelian Rp84.034, jauh di bawah AOV sehingga menghasilkan profitabilitas positif.",
+   "metrics": {
+    "AOV": "Rp122.010",
+    "ATC": "2.324",
+    "ROAS": "1.45x",
+    "Purchase": "119",
+    "ATC Value": "Rp199,967,037"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1768198317488-q7pv5j.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1768198309841-b5bogf.webp",
+   "services": "Digital Marketing",
+   "is_featured": true,
+   "display_order": 0
+  },
+  {
+   "slug": "meningkatkan-roas-3-92x-untuk-aum-apparel-dengan-strategi-cpas-berbasis-nilai-budaya-bali",
+   "title": "Meningkatkan ROAS 3.92x untuk AUM Apparel dengan Strategi CPAS Berbasis Nilai Budaya Bali",
+   "client_name": "AUM Apparel",
+   "challenge": "AUM Apparel menghadapi tantangan berikut sebagai brand lokal berkelanjutan:\r\n- Kurangnya kesadaran pasar terhadap nilai budaya dan keberlanjutan dalam produk active wear.\r\n- Biaya akuisisi tinggi (CPC rata-rata Rp8.043) di tengah persaingan ketat dengan brand internasional.\r\n- Konversi rendah karena target audiens tidak terfokus pada konsumen yang menghargai nilai budaya Bali.",
+   "strategy": "Kami merancang strategi CPAS yang menggabungkan data dan nilai budaya Bali:\r\n\r\nAudience Cultural Targeting:\r\n- Target audiens: pecinta fashion berkelanjutan (usia 25-45 tahun) + pengguna yang tertarik dengan budaya Bali dan pariwisata berkelanjutan.\r\n- Lookalike audience dari pembeli yang pernah membeli produk dengan keterangan \"Bali\" atau \"sustainable\".\r\n\r\nCreative Storytelling:\r\n- Kreatif berbasis cerita: \"Dibuat di Pulau Dewata, Dipersembahkan untuk Dunia\" dengan visual pemandangan Bali dan proses produksi lokal.\r\n- Video 15 detik menunjukkan karyawan lokal dan bahan alami dari Bali.\r\n\r\nCPAS Optimization:\r\n- Batasi biaya per pembelian maksimal Rp100.000 (di bawah AOV Rp359.235).\r\n-Fokus pada campaign dengan ROAS >3x (misal: \"TOF 01 || CBO || SOLID...\") untuk mengalokasikan anggaran lebih efisien.\"",
+   "results": "Dalam 8 bulan (28 April – 31 Desember 2025), kampanye menghasilkan:\r\n- 756 pembelian dengan total pendapatan Rp271.581.931.\r\n- ROAS 3.92x (setiap Rp1 juta iklan menghasilkan Rp3.92 juta revenue) — jauh di atas rata-rata industri apparel (1.5–2.5x).\r\n- AOV Rp359.235 (naik 40% dibandingkan periode sebelumnya).\r\n- Biaya per pembelian Rp91.738, 75% lebih rendah dari AOV sehingga menghasilkan profitabilitas tinggi.",
+   "metrics": {
+    "AOV": "Rp359.235",
+    "ATC": "8.623",
+    "Purchase": "756",
+    "ATC Value": "Rp2.362.661.739",
+    "Amount Spend": "Rp69.353.656",
+    "AROASmount Spend": "3.92x"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1768200506863-t60igh.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1768200509941-72s5.webp",
+   "services": "Digital Marketing (Meta CPAS), Facebook & Instagram Ads",
+   "is_featured": true,
+   "display_order": 0
+  },
+  {
+   "slug": "produksi-konten-dari-pra-hingga-pasca-produksi-social-media-management",
+   "title": "Produksi Konten Dari Pra Hingga Pasca Produksi & Social Media Management",
+   "client_name": "Marichan Fashion",
+   "challenge": "1. Persepsi produk yang terbatas sehingga perencanaan konten harus dilakukan dengan matang\r\n2. Riset USP & UVP produk karena brand belum memiliki pondasi terkait product knowledge",
+   "strategy": "1. Repositioning brand narrative dari hanya “sleepwear” menjadi daily comfort wear\r\n2. TOF-focused content approach dengan mengutamakan awareness & engagement\r\n3. Visual & emotion-driven content yang fokus untuk menyampaikan key message\r\n4. Membuat content plan, storyboard, dan managing waktu produksi\r\n5 Produksi & direct langsung \r\n5. Kurasi & editing konten after produksi\r\n6. Editing konten untuk Media Sosial & Ads",
+   "results": "1. Brand image lebih kuat & konsisten\r\n2. Penyampaian key message lebih terarah \r\n3. Menghasilkan raw konten lebih dari 100 gambar dan video",
+   "metrics": {},
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1767598653842-b7dk2i.png",
+   "hero_image_url": null,
+   "services": "Content Production, Social Media Management, Ad Creative Design, Paid-Ads",
+   "is_featured": true,
+   "display_order": 0
+  },
+  {
+   "slug": "social-media-management-profile-activity-brand-awareness-meningkat-secara-signifikan-dan-konsisten",
+   "title": "Social Media Management: Profile Activity & Brand Awareness Meningkat secara Signifikan dan Konsisten",
+   "client_name": "Tape Ketan 181 Muntilan",
+   "challenge": "1. Brand tradisional dengan awareness yang terbatas\r\n2. Produknya kurang relevan dengan audiens muda\r\n3. Persepsi “produk jadul” masih sangat melekat\r\n4. Konten sebelumnya kurang konsisten dan belum mengenalkan produk",
+   "strategy": "1. Repositioning konten: dari hanya Produk menjadi Legacy, dengan mengangkat history/heritage, authentic, dan tradisi keluarga\r\n2. Content pillar yang lebih terstruktur\r\n3. Adaptasi format konten modern (UGC, RTW, EGC)\r\n4. Konsistensi antara visual dan tone of voice.\r\n5. Mirroring ke TikTok untuk memperluas jangkauan audiens",
+   "results": "1. Peningkatkan aktivitas profil yang konsisten setiap bulan hingga 50%\r\n2. Peningkatan brand awareness yang cukup signifikan dan konsisten \r\n3. Persepsi brand berubah dari produk jadul menjadi produk tradisional bernilai autentik\r\n4. Fondasi konten sudah kuat untuk kolaborasi KOL & optimalisasi ads/CPAS",
+   "metrics": {},
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1767601887147-l4k4eb.png",
+   "hero_image_url": null,
+   "services": "Social Media Management, Paid Ads, CPAS, Shopee, Content Production",
+   "is_featured": true,
+   "display_order": 0
+  },
+  {
+   "slug": "meningkatkan-konversi-whatsapp-36-41-untuk-rmoda-workshop-dengan-strategi-ctwa-terukur",
+   "title": "Meningkatkan Konversi WhatsApp 36,41% untuk RMODA Workshop dengan Strategi CTWA Terukur",
+   "client_name": "RMODA Workshop",
+   "challenge": "RMODA Workshop (spesialis modifikasi mobil sport) menghadapi tantangan berikut:\r\n- Target audiens terlalu luas (semua pecinta mobil), sehingga biaya per lead mencapai Rp25.000+.\r\n- Konversi WhatsApp hanya 25% karena kreatif iklan kurang menonjolkan keunikan layanan modifikasi mobil sport.\r\n- Kompetisi tinggi dari bengkel mobil konvensional yang tidak fokus pada niche high-end.",
+   "strategy": "Kami mengoptimalkan CTWA dengan strategi berbasis niche mobil sport:\r\nAudience Precision:\r\n- Target audiens: pemilik mobil sport (usia 30-50 tahun, penghasilan >Rp20 juta/bulan) + pengguna yang tertarik dengan akun seperti @supercarsofindonesia.\r\n- Lookalike audience dari pembeli sebelumnya (data dari Instagram RMODA).\r\n\r\nCreative yang Menonjolkan Niche:\r\n- Video 15 detik menampilkan proses modifikasi mobil sport (misal: BMW M3) + testimoni klien.\r\n- CTA spesifik: \"Kirim Pesan untuk Dapatkan Konsultasi Gratis Modifikasi Mobil Sport\".\r\n\r\nEvent-Based Targeting:\r\n- Fokus pada event otomotif (misal: Bali Car Meetup) dengan alokasi anggaran 60% selama periode event.\r\n- Batasi biaya per percakapan maksimal Rp18.000 (di bawah rata-rata industri otomotif Rp25.000).",
+   "results": "Dalam 5 bulan (23 Agustus 2025 – 12 Januari 2026), kampanye menghasilkan:\r\n- 2.069 percakapan WhatsApp dari calon klien mobil sport.\r\n- Rasio konversi 36,41% (dari outbound click ke WhatsApp), naik 46% dari baseline (25%).\r\n- Biaya per percakapan Rp16.211, turun 35% dari biaya sebelumnya.\r\n- CTR (link click) 0,62% (di atas rata-rata industri otomotif 0,45%).",
+   "metrics": {
+    "CTR (link click)": "0,62%",
+    "OC→WA Landing Ratio": "36,41%",
+    "Cost per Messaging Conversation": "Rp16.211",
+    "Messaging conversations started": "2.069"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1768202438148-kilfyl.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1768202440756-76un3s.webp",
+   "services": "Digital Marketing (Meta CTWA untuk Automotive)",
+   "is_featured": true,
+   "display_order": 0
+  },
+  {
+   "slug": "meningkatkan-konversi-initiate-checkout-21-03-untuk-otc-bali-solo-dengan-strategi-ctlp-berbasis-generasi-z",
+   "title": "Meningkatkan Konversi Initiate Checkout 21,03% untuk OTC Bali Solo dengan Strategi CTLP Berbasis Generasi Z",
+   "client_name": "OTC Bali Solo",
+   "challenge": "OTC Bali Solo menghadapi tantangan berikut sebagai lembaga pelatihan karier luar negeri:\r\n- Biaya per lead tinggi (CPL di atas Rp10.000) karena target audiens terlalu umum (semua calon mahasiswa).\r\n- Konversi initiate checkout hanya 15% karena kreatif iklan kurang menonjolkan keunggulan program (izin resmi, jaminan penempatan, dan fasilitas kampus).\r\n- Kompetisi ketat dari lembaga pelatihan serupa yang menjanjikan gaji tinggi tanpa izin resmi.",
+   "strategy": "Kami mengoptimalkan CTLP (Call to Landing Page) dengan strategi berbasis Generasi Z:\r\nAudience Precision:\r\n- Target audiens spesifik:\r\n- Remaja usia 17-22 tahun di Jawa Tengah & sekitarnya yang tertarik dengan karier luar negeri.\r\n- Pengguna yang tertarik dengan konten seperti \"cara kerja di kapal pesiar\", \"gaji di luar negeri\", dan \"pelatihan hotel\".\r\n- Lookalike audience dari 1.000+ followers Instagram yang pernah mengirim pesan via DM.\r\n\r\nCreative yang Menonjolkan Value Proposition:\r\n- Video 15 detik menampilkan testimoni alumni yang bekerja di kapal pesiar + fasilitas lab kampus.\r\n- CTA spesifik: \"Kirim Pesan untuk Dapatkan Informasi Program & Promo Khusus\" dengan tombol WhatsApp yang menonjol.\r\n\r\nFunnel-Based Campaign:\r\n- TOF (Top of Funnel): Iklan edukasi tentang peluang karier luar negeri untuk menarik traffic.\r\n- MOF (Middle of Funnel): Iklan dengan testimoni alumni dan jaminan penempatan untuk meningkatkan konversi.\r\n- Batasi biaya per konversi maksimal Rp8.000 (di bawah rata-rata industri pendidikan Rp10.000).",
+   "results": "Dalam 3 bulan (25 September – 31 Desember 2025), kampanye menghasilkan:\r\n- 616 initiate checkout dari calon mahasiswa yang tertarik dengan program pendidikan.\r\n- Rasio konversi 21,03% (dari landing page ke initiate checkout), naik 40% dari baseline awal (15%).\r\n- Biaya per initiate checkout Rp6.942, turun 30% dari biaya sebelumnya (Rp10.000).\r\n- OC to LPV 59,17% (outbound click ke landing page), di atas rata-rata industri pendidikan (50%).\"",
+   "metrics": {
+    "Total Anggaran": "Rp4.276.348",
+    "LPV to IC Ratio": "21,03%",
+    "OC to LPV Ratio": "59,17%",
+    "Total Initiate Checkout": "616",
+    "Cost per Initiate Checkout": "Rp6.942"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1768207235024-tbwsrh.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1768207236570-18obo.webp",
+   "services": "Digital Marketing (Meta CTLP untuk Pendidikan)",
+   "is_featured": true,
+   "display_order": 0
+  },
+  {
+   "slug": "meningkatkan-konversi-35-untuk-travel-haji-umroh-official-dengan-strategi-google-ads-berbasis-intent-kepercayaan",
+   "title": "Meningkatkan Konversi 35% untuk Travel Haji Umroh Official dengan Strategi Google Ads Berbasis Intent & Kepercayaan",
+   "client_name": "PT. Sjava Barokah Makmur.",
+   "challenge": "Travel Haji Umroh Official menghadapi tantangan berikut sebagai penyedia layanan ibadah Haji & Umroh:\r\n - Biaya per klik tinggi (CPC di atas Rp15.000) karena kompetisi ketat untuk kata kunci seperti \"paket umroh murah\" dan \"travel haji berizin\".\r\n - Konversi rendah (hanya 18%) karena calon jamaah masih dalam fase riset dan kurang memahami perbedaan penyedia berizin vs tidak berizin.\r\n - Kompetisi dari penyedia ilegal yang menawarkan harga murah tanpa jaminan kualitas fasilitas dan izin resmi.\"",
+   "strategy": "Kami mengoptimalkan Google Ads dengan strategi berbasis intent & kepercayaan:\r\n\r\nKeyword Targeting Berbasis Intent:\r\n - Fokus pada kata kunci berkonversi tinggi:\r\n - High-Intent: \"paket umroh berizin\", \"travel haji resmi PPIU 617\", \"umroh dengan ustadz pembimbing\".\r\n - Mid-Intent: \"cara haji lancar\", \"paket umroh 2026\", \"fasilitas hotel di Mekkah\".\r\n - Gunakan negative keywords seperti \"gratis\", \"murah banget\", dan \"tanpa izin\" untuk menghindari calon jamaah yang tidak serius.\r\n\r\nAd Copy yang Menonjolkan Kepercayaan:\r\n - Iklan Google Search dengan CTA spesifik: \"Dapatkan Paket Haji & Umroh Berizin (PPIU 617 & PIHK 584) - Konsultasi Gratis\".\r\n\r\nTambahkan ad extensions:\r\n - Sitelink: \"Lihat Fasilitas Hotel Bintang 5\", \"Cek Jadwal Keberangkatan\".\r\n - Callout: \"Izin Resmi | Ustadz Pembimbing | Fasilitas Berkualitas\".\r\n\r\nLanding Page Optimization:\r\n - Halaman khusus untuk iklan dengan trust signals:\r\n - Sertifikat izin PPIU 617 & PIHK 584 di bagian atas.\r\n - Testimoni jamaah yang puas dengan foto dan nama lengkap.\r\n - Tombol WhatsApp \"Konsultasi Langsung\" yang menonjol.\r\n - A/B testing untuk CTA: \"Dapatkan Promo\" vs \"Konsultasi Gratis\".\r\n\r\nPerformance Max Campaign:\r\n - Gunakan audience signals berdasarkan:\r\n - Pengguna yang pernah mengunjungi halaman \"Haji+Kemenag\" atau \"E-Tajiro\".\r\n - Demografi: usia 35-55 tahun di Jawa Timur, Jabodetabek, dan Sumatera.\"",
+   "results": "Dalam 4 bulan (1 Oktober 2025 – 31 Januari 2026), kampanye menghasilkan:\r\n - 1.850 konversi (formulir pendaftaran & konsultasi WhatsApp) dari calon jamaah yang tertarik dengan paket Haji & Umroh.\r\n - Conversion Rate 35% (naik 94% dari baseline awal 18%).\r\n - Biaya per konversi Rp7.200, turun 40% dari biaya sebelumnya (Rp12.000).\r\n - CTR 5,8% (di atas rata-rata industri travel religi 4,2%).\r\n - ROAS 4,2x (setiap Rp1 juta iklan menghasilkan Rp4,2 juta revenue).",
+   "metrics": {},
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail_url/1776255972967-i53tm.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image_url/1776255976634-kzc90g.webp",
+   "services": "Digital Marketing",
+   "is_featured": true,
+   "display_order": 0
+  },
+  {
+   "slug": "meningkatkan-konversi-penjualan-65-brand-fashion-lyth-og",
+   "title": "Meningkatkan Konversi Penjualan 65% untuk Brand Fashion Premium dengan E-Commerce Experience yang Seamless",
+   "client_name": "LYTH Outdoor Garments",
+   "challenge": "LYTH Official sebagai brand fashion premium menghadapi berbagai tantangan dalam mengoptimalkan digital presence mereka:\r\n- Tingkat bounce rate tinggi (75%) karena pengalaman e-commerce yang kurang memikat dan tidak mobile-friendly\r\n- Calon pembeli kesulitan memvisualisasikan produk melalui foto produk konvensional\r\n- Proses checkout rumit dengan 5+ steps menyebabkan cart abandonment rate mencapai 82%\r\n- Minimnya storytelling brand yang mengkomunikasikan value proposition \"Attitude in Hybrid Form\"\r\n- Kompetisi ketat dengan brand fashion online lain yang menawarkan pengalaman belanja lebih seamless\r\n- Rendahnya repeat purchase rate (hanya 18%) karena kurangnya engagement pasca-pembelian",
+   "strategy": "Kami menerapkan strategi e-commerce dengan pendekatan Emotional Commerce Experience:\r\n- Visual Storytelling & Product Visualization:\r\n- Foto produk high-quality dengan multiple angles dan detail texture close-up\r\n- Lifestyle photography yang menampilkan konteks penggunaan produk di berbagai situasi\r\n- Integrasi video 15-detik untuk setiap produk yang menampilkan movement dan fit\r\n\r\nFrictionless Shopping Journey:\r\n- Simplifikasi checkout menjadi 2 steps dengan guest checkout option\r\n- Integrasi pembayaran multiple channels (QRIS, e-wallet, credit card)\r\n- Smart cart recovery system dengan notifikasi WhatsApp untuk abandoned cart\r\n\r\nBrand Identity Integration:\r\n- Visual language konsisten dengan color palette minimalis (earth tone) yang merefleksikan \"Attitude in Hybrid Form\"\r\n- Microcopy personal yang menciptakan koneksi emosional dengan audience Gen-Z & young professionals\r\n- Section \"The LYTH Story\" yang menjelaskan craftsmanship dan material quality",
+   "results": "- Conversion Rate: Naik dari 1.2% menjadi 2.0% (+65%)\r\n- Cart Abandonment Rate: Turun drastis dari 82% menjadi 47%\r\n- Average Order Value: Meningkat 38% dari Rp320.000 menjadi Rp442.000\r\n- Mobile Conversion: Peningkatan 120% untuk transaksi via mobile device\r\n- Customer Retention: Repeat purchase rate naik dari 18% menjadi 34%\r\n- Session Duration: Waktu kunjungan rata-rata meningkat 2x lipat (dari 1m21d menjadi 2m47d)\r\n- Revenue Impact: Peningkatan revenue bulanan rata-rata 78% pasca-implementasi",
+   "metrics": {
+    "Conversion Rate": "+65%",
+    "Mobile Engagement": "+120%",
+    "Average Order Value": "+38%"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1767766503801-kxzajj.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1767766506457-02lge.webp",
+   "services": "E-Commerce Development, UX/UI Design, Visual Content Strategy, Conversion Rate Optimization",
+   "is_featured": true,
+   "display_order": 0
+  },
+  {
+   "slug": "meningkatkan-konversi-163x-untuk-konsultasi-pajak-dengan-biaya-per-hasil-rp26-376",
+   "title": "Meningkatkan Konversi 163x untuk Konsultasi Pajak dengan Biaya per Hasil Rp26.376",
+   "client_name": "PT Eazy Tax Consulting",
+   "challenge": "Eazy Tax Consulting kesulitan mengubah traffic iklan menjadi klien aktif. Sebelumnya:\r\n- Biaya per lead mencapai Rp50.000+ dengan konversi di bawah 1%.\r\n- Target audiens kurang spesifik (terlalu luas: usia 25-55 tahun).\r\n- Landing page memiliki tingkat bounce rate 75% karena formulir panjang dan kurang jelas.",
+   "strategy": "Kami merancang strategi berbasis data untuk memaksimalkan ROI:\r\n\r\nAudiens Presisi:\r\n- Target usia 30-50 tahun, pemilik UMKM & perusahaan dengan omzet >Rp1 miliar/tahun.\r\n- Retargeting pengunjung website yang membuka halaman \"Jasa Konsultasi Pajak\".\r\n\r\nKreatif yang Mengedukasi:\r\n- Konten video 15 detik menjelaskan \"3 Kesalahan Fatal Saat Lapor Pajak\" + CTA \"Konsultasi Gratis\" .\r\n- A/B testing headline: \"Hemat Waktu & Biaya Pajak\" vs \"Hindari Denda Pajak dengan Ahli Kami\".\r\n\r\nOptimasi Konversi:\r\n- Landing page dioptimalkan dengan form 3 field (nama, WA, jenis usaha) + live chat WhatsApp.\r\n- Penambahan testimonial klien korporat di halaman utama.",
+   "results": "Dalam 4,5 bulan (6 Juli – 23 Oktober 2025), kampanye menghasilkan:\r\n- 163 checkouts (form submission/live chat aktif).\r\n- Cost per Result (CPR) Rp26.376, turun 47% dari baseline awal.\r\n- CTR 1,13% (di atas rata-rata industri 0,9% untuk jasa keuangan).\r\n- ROAS 5,1x (setiap Rp1 juta iklan menghasilkan Rp5,1 juta revenue klien).",
+   "metrics": {
+    "Average CPC": "Rp2.832",
+    "Cost per Result": "Rp26.376",
+    "Total Checkouts": "163"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1768193293791-qmme8r.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1768193296816-i7q3bc.webp",
+   "services": "Digital Marketing (Facebook Ads + Google Ads)",
+   "is_featured": true,
+   "display_order": 0
+  },
+  {
+   "slug": "meningkatkan-konversi-349x-dengan-biaya-per-hasil-rp19-310-untuk-ninnas-recipe",
+   "title": "Meningkatkan Konversi 349x dengan Biaya per Hasil Rp19.310 untuk Ninnas Recipe",
+   "client_name": "Ninna’s Recipe",
+   "challenge": "Ninnas Recipe kesulitan mengubah traffic menjadi pembeli karena:\r\n- CTR iklan di bawah 3% dan biaya per klik (CPC) mencapai Rp1.500+.\r\n- Target audiens terlalu luas (misal: semua pecinta masakan).\r\n- Landing page memiliki bounce rate 65% karena kurang fokus pada call-to-action.",
+   "strategy": "Kami menerapkan strategi berbasis data dengan kombinasi teknik berikut:\r\nSNIPER SCALLING:\r\n- Target audiens spesifik (usia 25-45 tahun, pecinta masakan home cooking, dan pengguna yang pernah mengunjungi website).\r\n- Fokus pada kata kunci seperti \"resep praktis\", \"menu sehat\", dan \"buku masak digital\".\r\n\r\nLookalike Audience 1% VC (Value Conversion):\r\n- Membangun audiens mirip dengan pembeli sebelumnya menggunakan data pembelian.\r\nCOST CAP & A/B Testing:\r\n- Membatasi biaya per klik maksimal Rp1.000 dengan sistem cost cap.\r\n- Menguji 3 varian kreatif: video resep 15 detik, carousel foto masakan, dan testimoni pengguna.",
+   "results": "Dalam 1,5 bulan (26 Juli – 14 September 2025), kampanye menghasilkan:\r\n- 349 checkouts (pembelian buku resep/digital course).\r\n- Cost per Result (CPR) Rp19.310, turun 35% dari biaya awal.\r\n- CTR 5,60% (di atas rata-rata industri 2-3% untuk kategori food & lifestyle).\r\n- LC to LPV 77,72% (77% pengguna yang mengklik iklan mencapai halaman landing).",
+   "metrics": {
+    "CPR": "Rp19.310",
+    "CTR": "5,60%",
+    "LC to LPV": "77,72%",
+    "Average CPC": "Rp837",
+    "Total Checkouts": "349"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1768195253203-7vu90n.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1768195257656-trt7im.webp",
+   "services": "Digital Marketing (Facebook Ads + Instagram Ads)",
+   "is_featured": true,
+   "display_order": 0
+  },
+  {
+   "slug": "meningkatkan-konversi-whatsapp-19-34-untuk-rmoda-studio-bsd-sports-car-modification-dengan-strategi-ctwa-terukur",
+   "title": "Meningkatkan Konversi WhatsApp 19,34% untuk RMODA Studio BSD (Sports Car Modification) dengan Strategi CTWA Terukur",
+   "client_name": "RMODA Studio BSD",
+   "challenge": "RMODA Studio BSD (spesialis modifikasi mobil sport) menghadapi tantangan berikut:\r\n- Biaya per lead tinggi (CPL di atas Rp75.000) karena target audiens terlalu umum (semua pemilik mobil).\r\n- Konversi WhatsApp hanya 12% karena kreatif iklan kurang menonjolkan keunikan layanan modifikasi mobil sport (misal: performa engine, body kit eksklusif).\r\n- Kompetisi ketat dari bengkel umum yang tidak fokus pada niche high-end.",
+   "strategy": "Kami mengoptimalkan CTWA dengan strategi berbasis niche mobil sport:\r\nAudience Precision:\r\n- Target audiens spesifik:\r\n- Pemilik mobil sport premium (Porsche 911, BMW M Series, Mercedes-AMG) di area BSD City & Jabodetabek.\r\n- Penggemar konten otomotif (@supercarsofindonesia, @indonesiasupercarclub).\r\n- Lookalike audience dari 500+ followers Instagram yang pernah mengirim pesan via DM.\r\n\r\nCreative dengan Value Proposition Jelas:\r\n- Video 15 detik menampilkan proses modifikasi Porsche 911 di workshop BSD + testimoni klien: \"Performa naik 40%, tampilan lebih agresif!\".\r\n- CTA spesifik: \"Kirim Pesan untuk Dapatkan Konsultasi Gratis Modifikasi Mobil Sport\".\r\n\r\nEvent-Driven Campaign:\r\n- Fokus pada event otomotif lokal (misal: BSD Car Meetup) dengan alokasi 70% anggaran selama periode event.\r\n- Batasi biaya per percakapan maksimal Rp55.000 (di bawah rata-rata industri otomotif high-end Rp75.000).\"*",
+   "results": "Dalam 4 bulan (18 September 2025 – 12 Januari 2026), kampanye menghasilkan:\r\n- 869 percakapan WhatsApp dari calon klien mobil sport premium.\r\n- Rasio konversi 19,34% (dari outbound click ke WhatsApp), naik 61% dari baseline awal (12%).\r\n- Biaya per percakapan Rp50.542, turun 16% dari biaya sebelumnya (Rp60.000).\r\n- CTR 1,27% (di atas rata-rata industri otomotif 0,8%).",
+   "metrics": {
+    "CTR (link click)": "1,27%",
+    "OC→WA Landing Ratio": "19,34%",
+    "Messaging Conversation Started": "869",
+    "Cost per Messaging Conversation": "Rp50.542"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1768204161717-7rfyyh.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1768204165163-p4qz0zd.webp",
+   "services": "Digital Marketing (Meta CTWA untuk Automotive)",
+   "is_featured": true,
+   "display_order": 0
+  },
+  {
+   "slug": "meningkatkan-konversi-whatsapp-53-58-untuk-rmoda-studio-makassar-dengan-strategi-ctwa-berbasis-lokal",
+   "title": "Meningkatkan Konversi WhatsApp 53,58% untuk RMODA Studio Makassar dengan Strategi CTWA Berbasis Lokal",
+   "client_name": "RMODA Studio Makassar",
+   "challenge": "RMODA Studio Makassar menghadapi tantangan berikut sebagai spesialis modifikasi mobil sport di Makassar:\r\n- Biaya per lead tinggi (CPL di atas Rp15.000) karena target audiens terlalu luas (seluruh Indonesia).\r\n- Konversi WhatsApp hanya 30% karena kreatif iklan tidak relevan dengan kebutuhan pasar lokal Makassar.\r\n- Kompetisi ketat dari bengkel umum yang tidak fokus pada niche mobil sport premium.",
+   "strategy": "\"Kami mengoptimalkan CTWA dengan strategi berbasis lokasi Makassar:\r\n\r\nHyper-Local Targeting:\r\nTarget audiens spesifik:\r\nPemilik mobil sport (Toyota 86, Mazda MX-5, Honda Civic Type R) di area Makassar & sekitarnya.\r\nPengguna yang tertarik dengan akun otomotif lokal (misal: @maksarotomotif).\r\nLookalike audience dari 300+ followers Instagram yang pernah mengirim pesan via DM.\r\n\r\nCreative dengan Nuansa Lokal:\r\n- Video 15 detik menampilkan proses modifikasi Toyota 86 di workshop Makassar + testimoni klien lokal: \"Hasil modifikasi terbaik di Makassar!\".\r\n- CTA spesifik: \"Kirim Pesan untuk Dapatkan Konsultasi Gratis Modifikasi Mobil Sport di Makassar\".\r\n\r\nEvent-Based Campaign:\r\n- Fokus pada event otomotif lokal (misal: Makassar Car Community Meetup) dengan alokasi 75% anggaran selama periode event.\r\nBatasi biaya per percakapan maksimal Rp12.000 (di bawah rata-rata industri otomotif Makassar Rp15.000).",
+   "results": "Dalam 3,5 bulan (19 September – 31 Desember 2025), kampanye menghasilkan:\r\n- 1.693 percakapan WhatsApp dari calon klien mobil sport di Makassar.\r\n- Rasio konversi 53,58% (dari outbound click ke WhatsApp), naik 78% dari baseline awal (30%).\r\n- Biaya per percakapan Rp10.211, turun 32% dari biaya sebelumnya (Rp15.000).\r\n- CTR 2,00% (di atas rata-rata industri otomotif 1,5%).\"*",
+   "metrics": {
+    "CTR (link click)": "2,00%",
+    "OC→WA Landing Ratio": "53,58%",
+    "Messaging Conversation Started": "1.693",
+    "Cost per Messaging Conversation": "Rp10.211"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1768206228484-j77hgd.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1768206231630-31hy9t.webp",
+   "services": "Digital Marketing (Meta CTWA untuk Automotive)",
+   "is_featured": true,
+   "display_order": 0
+  },
+  {
+   "slug": "meningkatkan-konversi-investasi-properti-45-persen-banyu-biru-property",
+   "title": "Meningkatkan Konversi Investasi Properti 45% dengan Landing Page yang Terkonversi untuk Banyu Biru Property",
+   "client_name": "Banyu Biru Property",
+   "challenge": "Permasalahan yang dihadapi sebelum redesign:\r\n- Tampilan website kurang modern dan sulit diakses di mobile.\r\n- Informasi properti tidak tertata rapi (cluttered).\r\n- Rendahnya jumlah pengunjung yang menghubungi marketing (Low Conversion).",
+   "strategy": "Pendekatan yang kami ambil untuk solusi:\r\n- UI/UX Modern: Desain clean dengan navigasi yang intuitif.\r\n- Mobile First: Memastikan tampilan sempurna di smartphone.\r\n- CTA Optimization: Tombol WhatsApp yang menonjol dan strategis.",
+   "results": "Dampak nyata setelah implementasi:\r\n- Peningkatan ketertarikan pengunjung (+40% time on site).\r\n- Tampilan jauh lebih profesional dan terpercaya.\r\n- Pertanyaan masuk melalui WhatsApp meningkat signifikan.",
+   "metrics": {
+    "Responsif Mobile": "100%",
+    "Lebih Cepat Aksesnya": "2x",
+    "Engagement Pengunjung": "+35%"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1767763508020-92nxxu.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1767763511972-cq79jc.webp",
+   "services": "Landing Page Development, Conversion Rate Optimization, UX/UI Design, Content Strategy",
+   "is_featured": true,
+   "display_order": 0
+  },
+  {
+   "slug": "peningkatan-konversi-40-persen-landing-page-otc-bali-solo",
+   "title": "Meningkatkan Conversion Rate 40% untuk Lembaga Pelatihan Karier Internasional",
+   "client_name": "OTC Bali Solo",
+   "challenge": "OTC Bali Solo kesulitan mengkomunikasikan nilai program pelatihan mereka secara efektif di digital. Calon siswa Gen-Z ragu karena:\r\n- Kurangnya bukti visual penempatan karier internasional\r\n- Keraguan terkait legalitas program dan jaminan penyaluran\r\n- Tingkat bounce rate tinggi (78%) karena konten tidak mobile-friendly\r\n- Sulit menonjolkan keunggulan kompetitif vs lembaga sejenis",
+   "strategy": "Struktur Konten Berbasis Pain Point:\r\n- Menampilkan jaminan legalitas di header (izin resmi + dukungan Pemda Surakarta)\r\n- Visualisasi jalur karier dengan estimasi income (Asia/Eropa/Cruise)\r\n- Testimoni alumni dengan foto aktual dan detail penempatan\r\n\r\nUX Optimization:\r\n- Desain mobile-first dengan form konsultasi sticky di bagian bawah\r\n- Progress bar visual untuk durasi pelatihan → penempatan\r\n- Integrasi WhatsApp CTA yang terbuka otomatis di mobile\r\n\r\nSocial Proof Enhancement:\r\n- Gallery pemberangkatan dengan foto passport & boarding pass\r\n- Logo mitra perusahaan internasional (MSC Cruises, Evergreen Hotel, dll)\r\n- Highlight program \"Kuliah Untung\" dengan simulasi ROI",
+   "results": "- Conversion Rate: 12% → 16.8% (+40%) dalam 3 bulan\r\n- Bounce Rate: Turun dari 78% menjadi 43%\r\n- Mobile Traffic Engagement: +50% waktu sesi rata-rata\r\n- Lead Quality: 65% konsultasi berubah menjadi pendaftaran program\r\n- Trust Metrics: 32% peningkatan klik ke halaman legalitas",
+   "metrics": {
+    "Keterlibatan Mobile": "+50%",
+    "Konversi Konsultasi": "+40%",
+    "Penurunan Bounce Rate": "-35%"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1767762830516-t47ez.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1767762839491-1prya.webp",
+   "services": "Web Development, UX/UI Design, Content Strategy, SEO Optimization",
+   "is_featured": true,
+   "display_order": 10
+  },
+  {
+   "slug": "membangun-digital-presence-perusahaan-energi-terbarukan-energy-persada-group",
+   "title": "Membangun Digital Presence untuk Perusahaan Energi Terbarukan: Website Profesional dengan Fokus Proyek dan Layanan",
+   "client_name": "PT. Energy Persada Group",
+   "challenge": "Energy Persada Group kesulitan menampilkan portofolio proyek energi hidro mereka secara profesional di ranah digital. Sebelumnya mereka menghadapi beberapa kendala:\r\n- Tidak memiliki website resmi yang menampilkan kompetensi dan kapabilitas perusahaan\r\n- Kesulitan mengkomunikasikan kompleksitas proyek PLTA/PLTMH kepada calon mitra dan investor\r\n- Minimnya informasi digital tentang layanan lengkap dari perencanaan hingga operasional\r\n- Tidak adanya sistem digital untuk menerima permintaan konsultasi dan pertanyaan teknis\r\n- Citra perusahaan kurang profesional di mata stakeholder karena tidak memiliki digital presence yang memadai",
+   "strategy": "Kami mengembangkan strategi website company profile yang komprehensif dengan fokus pada:\r\n\r\nArsitektur Konten yang Terstruktur:\r\n- Pembagian halaman sesuai journey pengunjung: sekilas perusahaan → layanan → proyek → testimoni → kontak\r\n- Penyajian informasi teknis proyek dengan visualisasi yang mudah dipahami\r\n- Detail spesifikasi proyek dengan status perkembangan dan kapasitas terukur\r\n\r\nVisual Storytelling:\r\n- Penggunaan visual high-quality untuk setiap proyek PLTA\r\n- Integrasi Google Maps untuk menampilkan lokasi proyek secara interaktif\r\n- Infografis yang menjelaskan proses pengembangan proyek energi air\r\n\r\nLead Generation System:\r\n- Form kontak terintegrasi dengan WhatsApp Business API\r\n- Landing page khusus untuk permintaan proposal dan konsultasi teknis\r\n- Call-to-action strategis di setiap section website",
+   "results": "Website Energy Persada Group berhasil menjadi representasi digital yang profesional dan efektif dalam mengkomunikasikan bisnis inti perusahaan:\r\n- Traffic Kualitas: 220% peningkatan traffic organik dari pencarian kata kunci energi terbarukan\r\n- Waktu Kunjungan: Rata-rata durasi sesi meningkat 3 menit 45 detik (sebelumnya kurang dari 30 detik via sosial media)\r\n- Konversi Konsultasi: 45 permintaan konsultasi/bulan (sebelumnya tidak terukur)\r\n- Brand Perception: 89% calon mitra menyatakan website meningkatkan kepercayaan terhadap kapabilitas perusahaan\r\n- Mobile Experience: 68% traffic berasal dari mobile dengan bounce rate hanya 24% berkat desain responsif\r\n- Project Inquiry: 17 permintaan informasi detail proyek spesifik per bulan",
+   "metrics": {
+    "Engagement Rate": "+68%",
+    "Lead Conversion": "+45%",
+    "Mobile Responsiveness": "100%"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1767763017249-6t3iu.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1767763020764-nof9y.webp",
+   "services": "Web Development, UI/UX Design, Content Strategy, SEO Optimization",
+   "is_featured": true,
+   "display_order": 11
+  },
+  {
+   "slug": "membangun-digital-presence-distributor-alat-kesehatan-mertha-jaya-medika",
+   "title": "Membangun Digital Presence untuk Distributor Alat Kesehatan: Website Profesional dengan Portofolio Terintegrasi",
+   "client_name": "PT. Mertha Jaya Medika",
+   "challenge": "PT. Mertha Jaya Medika kesulitan memposisikan diri sebagai mitra tepercaya di sektor kesehatan akibat keterbatasan digital presence. Tantangan utama meliputi:\r\n- Tidak adanya platform digital untuk memamerkan portofolio lengkap alat kesehatan, laboratorium, dan emergency medical kit\r\n- Kesulitan menjangkau institusi pendidikan dan rumah sakit yang membutuhkan solusi kustom\r\n- Proses konsultasi dan pemesanan masih manual via WhatsApp/email, menyebabkan delay respons hingga 48 jam\r\n- Minimnya bukti sosial (testimoni, sertifikasi) untuk membangun kepercayaan di pasar yang kompetitif\r\n- Tidak terstrukturnya informasi produk berdasarkan kebutuhan sektor (pendidikan, kesehatan, hospitality)",
+   "strategy": "Kami merancang website dengan pendekatan 3-Pilar:\r\n\r\nPortofolio Dinamis:\r\n- Kategori produk berbasis sektor dengan filter spesifikasi teknis (misal: alat lab untuk kampus, emergency kit untuk hotel)\r\n- Galeri dokumentasi instalasi lengkap dengan studi kasus (contoh: penyediaan 200+ alat praktikum untuk Program Keperawatan UMPO)\r\n\r\nTrust Engineering:\r\n- Section khusus sertifikasi ISO, izin Kemenkes, dan mitra institusi ternama (logo RSUD, kampus, hotel bintang 5)\r\n- Video testimoni dari pengajar dan manajer rumah sakit tentang kualitas layanan purna jual\r\n\r\nSmart Lead Generation:\r\n- Form konsultasi dengan opsi upload RAB (Rencana Anggaran Biaya) dan dokumen tender\r\n- Integrasi WhatsApp Business dengan sistem notifikasi prioritas untuk permintaan darurat\r\n- Kalender booking sesi demo produk virtual via Zoom",
+   "results": "- Peningkatan Traffic: 145% traffic organik dari kata kunci \"distributor alat laboratorium pendidikan\" dan \"emergency medical kit hotel\"\r\n- Konversi Konsultasi: 32 inquiry/bulan (sebelumnya 8/bulan) dengan 68% berasal dari sektor pendidikan\r\n- Kecepatan Respons: Waktu respons permintaan darurat turun dari 48 jam menjadi <4 jam berkat sistem prioritas otomatis\r\n- Brand Trust: 85% calon mitra mengakui peningkatan kepercayaan setelah melihat dokumentasi sertifikasi dan portofolio\r\n- Order Volume: 23% kenaikan pesanan bulk untuk alat praktikum kampus dan emergency kit hotel\r\n- Mobile Engagement: 74% user mobile dengan rata-rata 3.8 halaman dikunjungi per sesi",
+   "metrics": {
+    "Responsif Mobile": "100%",
+    "Inquiry Conversion": "+300%",
+    "Rata-rata Order Value": "+23%"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1767762441770-utr7lf.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1767762452812-hdr078.webp",
+   "services": "Web Development, E-commerce Integration, Content Strategy, SEO Optimization",
+   "is_featured": true,
+   "display_order": 12
+  },
+  {
+   "slug": "meningkatkan-rating-toko-shopee-4-9-platform-analisis-review-ai-wahanadev",
+   "title": "Meningkatkan Rating Toko Shopee 4.9+ dengan Platform Analisis Review Berbasis AI untuk Seller Kompetitif",
+   "client_name": "Wahanadev",
+   "challenge": "Wahanadev mengidentifikasi masalah signifikan yang dihadapi seller Shopee di Indonesia:\r\n- Kesulitan mengelola ratusan hingga ribuan ulasan harian secara manual\r\n- Respon lambat terhadap ulasan negatif menyebabkan penurunan rating toko\r\n- Seller kesulitan mengidentifikasi pola masalah berulang yang mempengaruhi rating\r\n- Transaksi mencurigakan dan selisih ongkir sulit dideteksi karena volume data yang besar\r\n- Tidak adanya sistem automatisasi untuk membalas ulasan yang personal namun efisien\r\n- Seller kehilangan potensi konversi karena tidak bisa memanfaatkan insight dari data review",
+   "strategy": "Kami mengembangkan RevShop dengan pendekatan Data-Driven Seller Empowerment:\r\n\r\nAI-Powered Review Analysis:\r\n- Integrasi model NLP (Natural Language Processing) untuk klasifikasi sentimen ulasan\r\n- Sistem tagging otomatis berdasarkan kategori masalah (kualitas produk, pengiriman, packaging)\r\n- Visualisasi data real-time untuk tracking tren rating toko\r\n\r\nSmart Reply System:\r\n- Template balasan yang bisa dikustomisasi sesuai sentimen ulasan\r\n- Fitur scheduled reply untuk membalas ulasan pada jam optimal\r\n- Personalisasi otomatis dengan menyisipkan nama produk dan detail spesifik\r\n\r\nRevenue Protection Suite:\r\n- Algoritma deteksi anomali untuk transaksi mencurigakan\r\n- Perbandingan ongkir aktual vs terbayar dengan highlight selisih signifikan\r\n- Integrasi data retur dan komplain untuk analisis pola kerugian",
+   "results": "- Rating Toko: Rata-rata meningkat dari 4.1 menjadi 4.9+ dalam 60 hari\r\n- Time Efficiency: Penghematan 14 jam/minggu dalam pengelolaan review manual\r\n- Response Rate: 98% ulasan dibalas dalam <24 jam (sebelumnya hanya 35%)\r\n- Revenue Protection: Deteksi rata-rata Rp 2.8 juta/bulan transaksi mencurigakan per seller\r\n- Customer Satisfaction: Peningkatan 42% pada ulasan positif setelah implementasi auto-reply\r\n- Conversion Rate: Toko dengan rating 4.9+ mengalami kenaikan konversi rata-rata 23%",
+   "metrics": {
+    "Rating Toko": "+0.8",
+    "Time Efficiency": "+14 jam/minggu",
+    "Revenue Protection": "+Rp2.8 juta/bulan"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1767764178639-878vic.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1767764183978-fufbd.webp",
+   "services": "SaaS Development, AI Integration, UX/UI Design, Data Visualization",
+   "is_featured": true,
+   "display_order": 13
+  },
+  {
+   "slug": "transformasi-digital-perusahaan-jasa-teknik-cipta-multi-solution",
+   "title": "Transformasi Digital untuk Perusahaan Jasa Teknik: Website Profesional dengan Sistem Manajemen Proyek Terintegrasi",
+   "client_name": "CV Cipta Multi Solution",
+   "challenge": "Cipta Multi Solution menghadapi tantangan signifikan dalam mengoptimalkan operasional dan presentasi bisnis mereka di era digital:\r\n- Sistem manajemen proyek masih manual menggunakan spreadsheet, menyebabkan delay komunikasi internal hingga 48 jam\r\n- Minimnya presentasi digital untuk portofolio proyek teknik yang telah diselesaikan\r\n- Calon klien kesulitan memahami scope pekerjaan dan kapabilitas teknis perusahaan\r\n- Proses konsultasi awal menghabiskan waktu 3-4 hari karena tidak adanya sistem pengajuan online\r\n- Citra perusahaan kurang profesional di mata investor dan mitra strategis karena tidak memiliki digital presence yang memadai\r\n- Tidak adanya integrasi antara marketing dan operasional sehingga sulit melacak ROI dari setiap proyek",
+   "strategy": "Kami mengembangkan solusi digital terintegrasi dengan pendekatan End-to-End Business Process:\r\n\r\nCompany Profile yang Berorientasi Solusi:\r\n- Arsitektur konten yang menampilkan jasa teknik berdasarkan pain point klien (biaya, waktu, kualitas)\r\n- Visualisasi proses kerja standar dengan timeline yang jelas dan transparan\r\n- Section spesialisasi teknis lengkap dengan sertifikasi dan kapasitas tim\r\n\r\nProject Management System:\r\n- Dashboard klien dengan akses real-time ke progress proyek\r\n- Sistem dokumentasi digital untuk setiap tahap pekerjaan\r\n- Integrasi notifikasi otomatis untuk milestone completion dan payment schedule\r\n\r\nLead Generation & Qualification:\r\n- Form konsultasi dengan kalkulator estimasi biaya awal berbasis parameter proyek\r\n- Chatbot AI untuk menjawab pertanyaan umum tentang jasa teknik\r\n- Sistem scoring lead berdasarkan kebutuhan dan anggaran klien",
+   "results": "- Proses Konsultasi: Waktu respons turun dari 3-4 hari menjadi <4 jam\r\n- Kualitas Lead: 78% inquiry memiliki informasi lengkap untuk proses penawaran awal\r\n- Project Visibility: 100% proyek aktif terpantau secara real-time di dashboard\r\n- Operational Efficiency: Penghematan 15 jam/minggu untuk administrasi manual\r\n- Conversion Rate: Peningkatan 35% dari inquiry ke proposal teknis\r\n- Client Satisfaction: Skor kepuasan klien naik dari 3.8 ke 4.7/5 berkat transparansi progres proyek",
+   "metrics": {
+    "Waktu Respons": "-95%",
+    "Conversion Rate": "+35%",
+    "Operational Efficiency": "+15 jam/minggu"
+   },
+   "thumbnail_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/thumbnail/1767765667690-ioij.webp",
+   "hero_image_url": "https://axfpmcrqnewmwcyoxzzi.supabase.co/storage/v1/object/public/case-study-images/hero_image/1767765670828-m9c43.webp",
+   "services": "Web Development, Project Management System, UX/UI Design, Content Strategy, SEO Optimization",
+   "is_featured": true,
+   "display_order": 14
+  }
+ ]
+}
