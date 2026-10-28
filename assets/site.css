@@ -615,6 +615,8 @@ body{background:var(--ink);color:var(--fg)}
 .gp-badge{display:inline-flex;flex:none;width:76px;margin-top:16px;transition:transform .25s ease}
 .gp-badge img{display:block;width:100%;height:auto}
 .gp-badge:hover{transform:translateY(-2px)}
+.gp-badge.form{width:40px;margin:0 0 0 auto;flex:none}
+.gp-badge.form img{border-radius:4px}
 
 /* client logo wall */
 .client-block{margin-top:clamp(30px,4vw,48px)}

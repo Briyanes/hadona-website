@@ -74,19 +74,19 @@ hadona-website/
 
 | Lokasi | Sekarang | Ganti jadi |
 |---|---|---|
-| `canonical`, `og:url`, `sitemap.xml`, `robots.txt` | `hadona.agency` | domain final |
+| `canonical`, `og:url`, `sitemap.xml`, `robots.txt` | selesai — `hadona.id` | — |
 | `contact.html` | `hello@hadona.id` | email final (kalau berbeda) |
-| Form kontak | belum mengirim ke mana pun | endpoint `/api/contact` via Resend |
+| Form kontak | selesai — `POST /api/contact` via Resend | set env `RESEND_API_KEY` di Vercel (opsional: `NOTIFY_EMAIL`, `CONTACT_FROM`) |
 | `terms.html`, `privacy.html` | template | hasil review lawyer |
 | Foto pendukung | 4 foto stok | foto klien atau shoot sendiri |
 
-Cari dan ganti sekaligus di VS Code: `Cmd+Shift+F` → cari `hadona.agency` → replace all.
+Domain final `hadona.id` sudah dipakai konsisten di semua file (canonical, og:url, og:image, sitemap, robots, JSON-LD).
 
 ---
 
 ## Edit yang sering dilakukan
 
-**Ganti teks** — semua isi ada di dalam `<main>`. Navigasi dan footer diulang di setiap file, jadi perubahan menu harus dilakukan di 10 file (atau pakai Find & Replace seluruh folder).
+**Ganti teks** — semua isi ada di dalam `<main>`. Navigasi dan footer diulang di setiap file, jadi perubahan menu harus dilakukan di 10 file (atau pakai Find & Replace seluruh folder). Setelah mengubah nav/footer, jalankan `python3 scripts/check_chrome.py` untuk memastikan tidak ada halaman yang tertinggal.
 
 **Ganti warna** — buka `assets/site.css`, blok `:root` di baris paling atas. Tema gelap ada di `[data-theme="dark"]`.
 
@@ -101,7 +101,8 @@ Cari dan ganti sekaligus di VS Code: `Cmd+Shift+F` → cari `hadona.agency` → 
 1. Push folder ini ke repository GitHub.
 2. Vercel → **Add New Project** → import repo.
 3. Framework preset: **Other**. Build command: kosong. Output directory: `.` (root).
-4. Setelah domain aktif, ganti semua `hadona.agency` seperti tabel di atas, lalu submit `sitemap.xml` di Google Search Console.
+4. Setelah domain aktif, submit `sitemap.xml` di Google Search Console.
+5. Vercel → Settings → Environment Variables → tambahkan `RESEND_API_KEY` (opsional: `NOTIFY_EMAIL`, `CONTACT_FROM`) agar form kontak terkirim.
 
 ---
 

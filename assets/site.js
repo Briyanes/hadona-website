@@ -154,6 +154,7 @@
   };
   for (var k2 in ID_MORE) { if(!ID_DICT[k2]) ID_DICT[k2]=ID_MORE[k2]; }
   for (var k in ID_EXTRA) { if(!ID_DICT[k]) ID_DICT[k]=ID_EXTRA[k]; }
+  ID_DICT['Something went wrong sending the form. Email hello@hadona.id directly.']='Pengiriman gagal. Email langsung ke hello@hadona.id.';
 
   var langPairs=[], langRoot=d.documentElement, langBtn=d.getElementById('langToggle'), langCode=d.getElementById('langCode');
   function collectText(){
@@ -266,8 +267,22 @@
     if(!form.consent.checked){ok=false;}
     if(!ok){return;}
     var btn=d.getElementById('submitBtn');
-    btn.disabled=true;btn.textContent='Sending...';
-    setTimeout(function(){form.style.display='none';d.getElementById('okState').classList.add('show');},600);
+    btn.disabled=true;var orig=btn.textContent;btn.textContent='Sending...';
+    var errBox=d.getElementById('formErr');
+    if(errBox) errBox.classList.remove('show');
+    var payload={
+      name:form.name.value.trim(),
+      email:form.email.value.trim(),
+      company:form.company?String(form.company.value).trim():'',
+      budget:form.budget.value,
+      message:form.message.value.trim(),
+      website:form.website?String(form.website.value).trim():''
+    };
+    var done=function(){form.style.display='none';d.getElementById('okState').classList.add('show');};
+    var fail=function(){btn.disabled=false;btn.textContent=orig;if(errBox)errBox.classList.add('show');};
+    if(!window.fetch){done();return;}
+    fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)})
+      .then(function(r){if(r.ok){done();}else{fail();}}).catch(fail);
   });
   ['name','email','budget','message'].forEach(function(n){
     form[n].addEventListener('input',function(){

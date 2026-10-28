@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hadona.agency/sitemap.xml
+Sitemap: https://hadona.id/sitemap.xml
